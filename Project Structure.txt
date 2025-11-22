@@ -1,0 +1,15 @@
+covid19-deep-learning-analysis/
+│
+├── data/
+│   ├── covid_cases.csv
+│   └── covid_deaths.csv
+├── notebooks/
+│   └── covid19_deep_learning_analysis.ipynb
+├── src/
+│   ├── data_processor.py
+│   └── model_trainer.py
+├── models/
+│   └── saved_models/
+├── README.md
+├── requirements.txt
+└── app.py
